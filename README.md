@@ -2,7 +2,7 @@
 
 ![RPI Monitoring](rpi_monitoring.gif "RPI Monitoring Screen")
 
-## Prequirements
+## Requirements
 
 - RaspberryPI Model 3 b+
 - Quimat Raspberry Pi 3 Screen,LCD TFT 3,5 pouces, Touch Screen
