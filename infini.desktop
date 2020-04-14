@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Infini
+Comment=Start Infini
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=xterm -e /home/pi/bin/infini
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
